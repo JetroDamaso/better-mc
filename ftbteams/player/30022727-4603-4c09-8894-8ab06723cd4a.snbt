@@ -1,0 +1,15 @@
+{
+	id: "30022727-4603-4c09-8894-8ab06723cd4a"
+	type: "player"
+	player_name: "DiscJammer"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "DiscJammer"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFE4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

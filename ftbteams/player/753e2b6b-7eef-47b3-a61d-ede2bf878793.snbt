@@ -1,0 +1,17 @@
+{
+	id: "753e2b6b-7eef-47b3-a61d-ede2bf878793"
+	type: "player"
+	player_name: "MonkeyNovera"
+	ranks: {
+		753e2b6b-7eef-47b3-a61d-ede2bf878793: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MonkeyNovera"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D7FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

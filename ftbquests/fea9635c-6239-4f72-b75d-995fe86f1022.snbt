@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "fea9635c62394f72b75d995fe86f1022"
+	name: "TagaKanto#fea9635c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

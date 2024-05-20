@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c52e9c91f57f48b085193897d272bba5"
+	name: "Shaneika#c52e9c91"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

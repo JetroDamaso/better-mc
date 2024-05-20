@@ -1,0 +1,15 @@
+{
+	id: "793f7788-9fa1-4a48-833f-0661043a0b19"
+	type: "player"
+	player_name: "Cardu"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Cardu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#599FFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

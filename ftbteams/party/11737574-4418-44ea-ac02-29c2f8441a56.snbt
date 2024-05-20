@@ -1,0 +1,27 @@
+{
+	id: "11737574-4418-44ea-ac02-29c2f8441a56"
+	type: "party"
+	owner: "fea9635c-6239-4f72-b75d-995fe86f1022"
+	ranks: {
+		fea9635c-6239-4f72-b75d-995fe86f1022: "owner"
+		30022727-4603-4c09-8894-8ab06723cd4a: "member"
+		793f7788-9fa1-4a48-833f-0661043a0b19: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Tambay Sa Kanto"
+		"ftbteams:description": "Mga Tambay"
+		"ftbteams:color": "#599EFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1716134669030L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"TagaKanto\"}]}" }
+		{ from: "fea9635c-6239-4f72-b75d-995fe86f1022", date: 1716134680141L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Cardu\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1716134717429L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Cardu\"}]}" }
+		{ from: "fea9635c-6239-4f72-b75d-995fe86f1022", date: 1716134728539L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"DiscJammer\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1716134730727L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DiscJammer\"}]}" }
+		{ from: "793f7788-9fa1-4a48-833f-0661043a0b19", date: 1716134732677L, text: "{\"text\":\"burat\"}" }
+		{ from: "30022727-4603-4c09-8894-8ab06723cd4a", date: 1716134749143L, text: "{\"text\":\"Lets go!\"}" }
+	]
+	extra: { }
+}

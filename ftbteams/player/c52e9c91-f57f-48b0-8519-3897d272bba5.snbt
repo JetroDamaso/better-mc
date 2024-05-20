@@ -1,0 +1,17 @@
+{
+	id: "c52e9c91-f57f-48b0-8519-3897d272bba5"
+	type: "player"
+	player_name: "Shaneika"
+	ranks: {
+		c52e9c91-f57f-48b0-8519-3897d272bba5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Shaneika"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFCC59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

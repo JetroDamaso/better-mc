@@ -1,0 +1,17 @@
+{
+	id: "99e63a00-8899-4ac2-b097-3bd63d58f123"
+	type: "player"
+	player_name: "ChiggaChan"
+	ranks: {
+		99e63a00-8899-4ac2-b097-3bd63d58f123: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ChiggaChan"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7459"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

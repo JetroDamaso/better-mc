@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "753e2b6b7eef47b3a61dede2bf878793"
+	name: "MonkeyNovera#753e2b6b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "fea9635c-6239-4f72-b75d-995fe86f1022"
+	type: "player"
+	player_name: "TagaKanto"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "TagaKanto"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C2FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

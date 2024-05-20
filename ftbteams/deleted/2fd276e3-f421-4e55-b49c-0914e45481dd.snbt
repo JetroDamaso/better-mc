@@ -1,0 +1,15 @@
+{
+	id: "2fd276e3-f421-4e55-b49c-0914e45481dd"
+	type: "party"
+	owner: "30022727-4603-4c09-8894-8ab06723cd4a"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "DiscJammer and his lackeys"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5997FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "99e63a0088994ac2b0973bd63d58f123"
+	name: "ChiggaChan#99e63a00"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
