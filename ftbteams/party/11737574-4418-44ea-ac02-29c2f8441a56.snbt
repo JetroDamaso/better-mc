@@ -5,7 +5,10 @@
 	ranks: {
 		fea9635c-6239-4f72-b75d-995fe86f1022: "owner"
 		30022727-4603-4c09-8894-8ab06723cd4a: "member"
+		753e2b6b-7eef-47b3-a61d-ede2bf878793: "member"
 		793f7788-9fa1-4a48-833f-0661043a0b19: "member"
+		99e63a00-8899-4ac2-b097-3bd63d58f123: "member"
+		c52e9c91-f57f-48b0-8519-3897d272bba5: "invited"
 	}
 	properties: {
 		"ftbteams:display_name": "Tambay Sa Kanto"
@@ -22,6 +25,11 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1716134730727L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DiscJammer\"}]}" }
 		{ from: "793f7788-9fa1-4a48-833f-0661043a0b19", date: 1716134732677L, text: "{\"text\":\"burat\"}" }
 		{ from: "30022727-4603-4c09-8894-8ab06723cd4a", date: 1716134749143L, text: "{\"text\":\"Lets go!\"}" }
+		{ from: "fea9635c-6239-4f72-b75d-995fe86f1022", date: 1716217565973L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"MonkeyNovera\"}]}" }
+		{ from: "fea9635c-6239-4f72-b75d-995fe86f1022", date: 1716217565974L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Shaneika\"}]}" }
+		{ from: "fea9635c-6239-4f72-b75d-995fe86f1022", date: 1716217565974L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"ChiggaChan\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1716217569408L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"MonkeyNovera\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1716217569762L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ChiggaChan\"}]}" }
 	]
 	extra: { }
 }

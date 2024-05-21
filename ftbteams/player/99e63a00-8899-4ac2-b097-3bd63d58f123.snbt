@@ -2,9 +2,7 @@
 	id: "99e63a00-8899-4ac2-b097-3bd63d58f123"
 	type: "player"
 	player_name: "ChiggaChan"
-	ranks: {
-		99e63a00-8899-4ac2-b097-3bd63d58f123: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "ChiggaChan"
 		"ftbteams:description": ""
